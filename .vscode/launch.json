@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-WebApplication<dio-springboot-3>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "me.dio.web.WebApplication",
+      "projectName": "dio-springboot-3",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
