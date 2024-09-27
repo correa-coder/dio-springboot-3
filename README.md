@@ -71,8 +71,6 @@ classDiagram
 
 3. Execute o projeto usando Gradle:
 
-   **Linux**
-
    ```bash
    # Linux
    ./gradlew bootRun
